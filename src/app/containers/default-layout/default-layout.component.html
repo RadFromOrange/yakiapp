@@ -35,7 +35,7 @@
 <!--    cSidebarToggle="sidebar"-->
 <!--  ></c-sidebar-toggler>-->
 <!--</c-sidebar>-->
-<div class="main-wrapper" [ngClass]="{ 'main-wrapper--navigation-open': true }">
+<div class="main-wrapper"  [ngClass]="{ 'main-wrapper--navigation-open': true }">
   <nav class="main-navigation">
     <div [hidden]="currentSidebarMode !== 'expanded'">
       <fa-icon class="sidebar-toggle" [icon]="faPlus" (click)="mainNavigationOpened = !mainNavigationOpened"></fa-icon>&nbsp;
@@ -50,7 +50,7 @@
     >
     </asm-angular-sidebar-menu>
   </nav>
-
+1 beu liveubass
   <header class="main-header">
     <fa-icon class="sidebar-toggle" [icon]="faBars" (click)="onSidebarModeChanged()"></fa-icon>&nbsp;
     <app-default-header class="align-content-end"></app-default-header>
