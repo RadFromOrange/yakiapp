@@ -1,0 +1,6 @@
+  1  pip install --upgrade pip
+    2  pip install farm-haystack[colab,inference]
+    4  pip install farm-haystack[preprocessing]
+    9  pip install PyPDF2 requests beautifulsoup4
+   15  history grep | pip install
+   16  history  |grep  'pip install'

@@ -1,0 +1,87 @@
+    1  pip install --upgrade pip
+    2  pip install farm-haystack[colab,inference]
+    3  python /workspace/yakiapp/sss.py
+    4  pip install farm-haystack[preprocessing]
+    5  python /workspace/yakiapp/sss.py
+    6  /home/gitpod/.pyenv/shims/python
+    7  python /workspace/yakiapp/sss.py
+    8  python /workspace/yakiapp/ssss.py
+    9  pip install PyPDF2 requests beautifulsoup4
+   10  python /workspace/yakiapp/ssss.py
+   11  print(f"Answer: {prediction['answers'][0].answer}")
+   12  python /workspace/yakiapp/ssss.py
+   13  /workspace/yakiapp/sss.py
+   14  python /workspace/yakiapp/sss.py
+   15  history grep | pip install
+   16  history  |grep  'pip install'
+   17  pip install beautifulsoup4
+   18  python /workspace/yakiapp/sss.py
+   19  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   20  sudo apt install ./google-chrome-stable_current_amd64.deb
+   21  python /workspace/yakiapp/sss.py
+   22  pip install farm-haystack[crawler]
+   23  python /workspace/yakiapp/sss.py
+   24  sudo python /workspace/yakiapp/sss.py
+   25  sudo -c 'python /workspace/yakiapp/sss.py'
+   26  python /workspace/yakiapp/sss.py
+   27  sudo python /workspace/yakiapp/sss.py
+   28  sudo
+   29  sudo python -c "/workspace/yakiapp/sss.py"
+   30  sudo  /workspace/yakiapp/sss.py
+   31  sudo  ./workspace/yakiapp/sss.py
+   32  sudo  -c "python ./workspace/yakiapp/sss.py"
+   33  python /workspace/yakiapp/sss.py
+   34  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   35  google-chrome-stable 
+   36  python /workspace/yakiapp/sss.py
+   37  apt-get install chromium
+   38  sudo apt-get install chromium
+   39  sudo apt-get update && sudo apt-get install chromium
+   40  sudo apt-get update && sudo apt-get install chromium-bsu
+   41  python /workspace/yakiapp/sss.py
+   42  wget https://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_linux64.zip
+   43  sudo mv chromedriver /usr/bin/chromedriver
+   44  unzip chromedriver_linux64.zip
+   45  sudo mv chromedriver /usr/bin/chromedriver
+   46  sudo chmod +x /usr/bin/chromedriver
+   47  python /workspace/yakiapp/sss.py
+   48  wget https://chromedriver.storage.googleapis.com/100.0.4896.20/chromedriver_linux64.zip
+   49  unzip chromedriver_linux64.zip
+   50  sudo mv chromedriver /usr/bin/chromedriver
+   51  sudo chmod +x /usr/bin/chromedriver
+   52  python /workspace/yakiapp/sss.py
+   53  unzip chromedriver_linux64.zip
+   54  sudo mv chromedriver /usr/bin/chromedriver
+   55  sudo chmod +x /usr/bin/chromedriver
+   56  python /workspace/yakiapp/sss.py
+   57  wget -o https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.26/linux64/chrome-linux64.zip
+   58* wget https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.26/linux64/chrome-linux64.zip -
+   59  wget https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.26/linux64/chrome-linux64.zip 
+   60  unzip chromedriver_linux64.zip
+   61  wget 	https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.58/linux64/chromedriver-linux64.zip
+   62  unzip chromedriver_linux64.zip
+   63  unzip chromedriver-linux64.zip 
+   64  sudo mv chromedriver-linux64/chromedriver /usr/bin/chromedriver
+   65  sudo chmod +x /usr/bin/chromedriver
+   66  python /workspace/yakiapp/sss.py
+   67  /usr/bin/chromedriver
+   68  python /workspace/yakiapp/sss.py
+   69  wget https://chromedriver.storage.googleapis.com/100.0.4896.20/chromedriver_linux64.zip
+   70  unzip chromedriver-linux64.zip 
+   71  unzip chromedriver_linux64.zip 
+   72  sudo mv chromedriverc chromedriver /usr/bin/chromedriver
+   73  sudo mv chromedriver chromedriver /usr/bin/chromedriver
+   74  sudo mv chromedriver /usr/bin/chromedriver
+   75  sudo chmod +x /usr/bin/chromedriver
+   76  apt-get remove google-chrome-stable 
+   77  sudo apt-get remove google-chrome-stable 
+   78  wget https://mirror.cs.uchicago.edu/google-chrome/pool/main/g/google-chrome-stable/google-chrome-stable_99.0.4844.84-1_amd64.deb
+   79  apt-get install chromiu
+   80  sudo apt-get install /workspace/yakiapp/google-chrome-stable_99.0.4844.84-1_amd64.deb
+   81  python /workspace/yakiapp/sss.py
+   82  sudo apt-get remove google-chrome-stable 
+   83  wget https://mirror.cs.uchicago.edu/google-chrome/pool/main/g/google-chrome-stable/google-chrome-stable_100.0.4896.127-1_amd64.deb
+   84  sudo apt-get install /workspace/yakiapp/google-chrome-stable_100.0.4896.127-1_amd64.deb 
+   85  python /workspace/yakiapp/sss.py
+   86  python /workspace/yakiapp/jskiline.py
+   87  history > history.txt
